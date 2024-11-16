@@ -10,14 +10,14 @@ The project uses the following technologies:
 - Maven
 - H2 Database
 
-For a sample SOAP web service, see the [Sample SOAP Service - Movie API](https://www.github.com/zjcz/sample-soap-service) project.
+For a sample SOAP web service, see the [Sample SOAP Service - Movie API](https://www.github.com/melbatestgithub/movie-api) project.
 
 ## Setup
 
 To get started, clone the repository and navigate to the project directory
 
 ```bash
-git clone https://github.com/zjcz/sample-rest-service.git
+git clone https://github.com/melbatestgithub/sample-rest-service.git
 cd sample-rest-service
 ```
 
